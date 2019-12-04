@@ -62,11 +62,11 @@ disqus_username: yibaren
 # Gitalk
 ###gitalk:
   enable: false   #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: e27a2c7df8e678b437fa                            #生成的clientID
+  clientSecret: 833bd60902a2514e38b9de31c20b7c0b3243f09a    #生成的clientSecret
+  repo: yibaren.github.io    #仓库名称
+  owner: yibaren    #github用户名
+  admin: yibaren
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
